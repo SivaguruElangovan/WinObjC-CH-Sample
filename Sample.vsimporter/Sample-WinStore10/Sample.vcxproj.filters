@@ -1,0 +1,554 @@
+<?xml version="1.0"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Common">
+      <UniqueIdentifier>{ce00ce9e-6c4d-439e-babb-b0d922837364}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Assets">
+      <UniqueIdentifier>{9c17513d-2f75-4473-893a-83ba1263767c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ImageViewSample">
+      <UniqueIdentifier>{67C24FB4-7DC7-432B-80A4-08547136B569}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ImageViewSample\Base">
+      <UniqueIdentifier>{931ED963-1692-4604-93FE-229CF0A7C5B3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ImageViewSample\DRAWING VIEW">
+      <UniqueIdentifier>{D4117DA0-E399-47EB-838A-AD7110AC0016}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ImageViewSample\Paint">
+      <UniqueIdentifier>{FA9D04C1-5CEB-4F43-951E-4085722B061A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ImageViewSample\Supporting Files">
+      <UniqueIdentifier>{F98B42C1-19DE-470B-80BE-CAB6E28DCB16}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ImageViewSample\mainmenu">
+      <UniqueIdentifier>{56F66936-FD62-481C-8A0B-705D9E37E67E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Xcode Variable Files">
+      <UniqueIdentifier>{396F173C-F18D-4D42-935B-8CD10D7A2A4A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Assets\LockScreenLogo.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\SplashScreen.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Square150x150Logo.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Square44x44Logo.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\StoreLogo.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Wide310x150Logo.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <ClangCompile Include="..\..\ImageViewSample\DRAWING VIEW\DrawingViewController.m">
+      <Filter>ImageViewSample\DRAWING VIEW</Filter>
+    </ClangCompile>
+    <ClangCompile Include="..\..\ImageViewSample\ViewController.m">
+      <Filter>ImageViewSample</Filter>
+    </ClangCompile>
+    <ClangCompile Include="..\..\ImageViewSample\AppDelegate.m">
+      <Filter>ImageViewSample</Filter>
+    </ClangCompile>
+    <ClangCompile Include="..\..\ImageViewSample\main.m">
+      <Filter>ImageViewSample\Supporting Files</Filter>
+    </ClangCompile>
+    <ClangCompile Include="..\..\ImageViewSample\DRAWING VIEW\DrawingView.m">
+      <Filter>ImageViewSample\DRAWING VIEW</Filter>
+    </ClangCompile>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\triangle_n.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\eraser_n.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\homeassetstore_n@2x.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\rateus_h.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\redo_n@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\cap.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\irregular_n.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\suggest_facebook_n.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\shapes_h.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\triangle_n@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\email1_n.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\circle_n@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\rect_h.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\redo_n.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\circle_h@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\filledtriangle_n@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\color-strip.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\triangle_h@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\size-bar1@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\clear all_h.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\star_n@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\star_h@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\crayon_h@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\filledtriangle_h@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\rect_n@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\helpmenu_n.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\zoom_h@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\irregular_h.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\facebook1_h@2x.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\homeassetstore_h@2x.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\filledcircle_h@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\rect_n.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\size-bar1.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\twitter1_h.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\pent_n.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\filledtriangle_h.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\homeassetstore_h.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\clear all_n.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\irregular_n@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\line_h.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\shapes_n.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\pent_n@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\mycomicph.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\email1_n@2x.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\filledhex_n@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\filledhex_h.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\line_h@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\pent_h.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\template_h.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\hex_h.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\utubemenu_h.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\line_n@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\color-pointer.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\dot.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\landingpage.jpg">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\createmenu_n.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\filledstar_h.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\email1_h.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\mytemplate_h.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\print1_h@2x.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\clear all_h@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\bar-rollover1.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\circle_h.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\likemenu_n.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\shapes_h@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\filledtriangle_n.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\star_h.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\eraser_n@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\filledrect_h@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\print1_n@2x.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\filledcircle_h.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\mycomicarrow@2x.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\colors_n@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\filledrect_h.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\crayon_n@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\trans@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\filledhex_n.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\color-pointer@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\aboumenu_h.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\eraser_h@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\pent_h@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <StoryboardCompile Include="..\..\ImageViewSample\Base.lproj\LaunchScreen.storyboard">
+      <Filter>ImageViewSample\Base</Filter>
+    </StoryboardCompile>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\emptyscreen.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\filledstar_n.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\hex_n@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\star_n.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\trans.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\mytemplate_n.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\woodcut.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\shapes_n@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\hex_h@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\clear all_n@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\crayon_n.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\mycomicarrow.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\hex_n.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\homeassetstore_n.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\filledstar_h@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\zoom_n.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\filledpent_h.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\rateus_n.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\facebook1_n@2x.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\ring.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\suggest_email_n.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\fill_n.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\twitter1_n@2x.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <AssetCatalogCompile Include="..\..\ImageViewSample\Assets.xcassets">
+      <Filter>ImageViewSample</Filter>
+    </AssetCatalogCompile>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\redo_h@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\facebook1_n.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\zoom_n@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\email1_h@2x.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\aboumenu_n.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\dot@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\helpmenu_h.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\fill_h.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\colors_h.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\twitter1_n.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\undo_n@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\parental_n.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\filledrect_n@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\rect_h@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\suggest_n.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\zoom_h.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\line_n.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\undo_n.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\parental_h.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\filledrect_n.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\filledstar_n@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\filledcircle_n.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\15000-coins.png">
+      <Filter>ImageViewSample</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\suggest_facebook_h.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\utubemenu_n.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\createmenu_h.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\colors_h@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\likemenu_h.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\facebook1_h.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\crayon_h.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\redo_h.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\filledhex_h@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\filledcircle_n@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\irregular_h@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\template_n.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\colors_n.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\undo_h@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\print1_h.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\bar-rollover1@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\eraser_h.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\filledpent_n.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\print1_n.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\filledpent_n@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\lastwork_h.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\twitter1_h@2x.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\paint_tutorial.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\undo_h.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\mainmenu\suggest_email_h.png">
+      <Filter>ImageViewSample\mainmenu</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\10-%-black.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\circle_n.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\triangle_h.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Paint\filledpent_h@2x.png">
+      <Filter>ImageViewSample\Paint</Filter>
+    </SBResourceCopy>
+    <StoryboardCompile Include="..\..\ImageViewSample\Base.lproj\Main.storyboard">
+      <Filter>ImageViewSample\Base</Filter>
+    </StoryboardCompile>
+    <SBInfoPlistCopy Include="..\..\ImageViewSample\Info.plist" />
+    <Text Include="Sample-Debug-xcvars.txt">
+      <Filter>Xcode Variable Files</Filter>
+    </Text>
+    <Text Include="Sample-Release-xcvars.txt">
+      <Filter>Xcode Variable Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

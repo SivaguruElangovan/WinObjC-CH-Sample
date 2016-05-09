@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ImageViewSample">
+      <UniqueIdentifier>{89BFBE12-4D50-41C6-8274-F0A9C6302595}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ImageViewSample\DRAWING VIEW">
+      <UniqueIdentifier>{BCFF25BE-ADCC-4992-9181-29B6B760DEA7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\..\ImageViewSample\DRAWING VIEW\DrawingView.h">
+      <Filter>ImageViewSample\DRAWING VIEW</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\..\ImageViewSample\DRAWING VIEW\DrawingViewController.h">
+      <Filter>ImageViewSample\DRAWING VIEW</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\..\ImageViewSample\AppDelegate.h">
+      <Filter>ImageViewSample</Filter>
+    </ClInclude>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\..\ImageViewSample\ViewController.h">
+      <Filter>ImageViewSample</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

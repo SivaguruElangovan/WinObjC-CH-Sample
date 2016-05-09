@@ -1,0 +1,660 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>XNA5</Machine>
+    <WindowsUser>Nextwave XNA5</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|Win32</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>e5c3ae3b-81ad-44d8-baff-886f74f03e4f</PackageIdentityName>
+    <IntermediateOutputPath>E:\Sivaguru\Projects\May\09 May\ImageViewSample\Sample.vsimporter\Sample-WinStore10\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\Debug\Sample\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\triangle_n.png">
+      <PackagePath>triangle_n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\eraser_n.png">
+      <PackagePath>eraser_n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\homeassetstore_n%402x.png">
+      <PackagePath>homeassetstore_n%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\rateus_h.png">
+      <PackagePath>rateus_h.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\redo_n%402x.png">
+      <PackagePath>redo_n%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\cap.png">
+      <PackagePath>cap.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\irregular_n.png">
+      <PackagePath>irregular_n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\suggest_facebook_n.png">
+      <PackagePath>suggest_facebook_n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\shapes_h.png">
+      <PackagePath>shapes_h.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\triangle_n%402x.png">
+      <PackagePath>triangle_n%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\email1_n.png">
+      <PackagePath>email1_n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\circle_n%402x.png">
+      <PackagePath>circle_n%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\rect_h.png">
+      <PackagePath>rect_h.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\redo_n.png">
+      <PackagePath>redo_n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\circle_h%402x.png">
+      <PackagePath>circle_h%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\filledtriangle_n%402x.png">
+      <PackagePath>filledtriangle_n%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\color-strip.png">
+      <PackagePath>color-strip.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\triangle_h%402x.png">
+      <PackagePath>triangle_h%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\size-bar1%402x.png">
+      <PackagePath>size-bar1%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\clear all_h.png">
+      <PackagePath>clear all_h.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\star_n%402x.png">
+      <PackagePath>star_n%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\star_h%402x.png">
+      <PackagePath>star_h%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\crayon_h%402x.png">
+      <PackagePath>crayon_h%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\filledtriangle_h%402x.png">
+      <PackagePath>filledtriangle_h%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\rect_n%402x.png">
+      <PackagePath>rect_n%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\helpmenu_n.png">
+      <PackagePath>helpmenu_n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\zoom_h%402x.png">
+      <PackagePath>zoom_h%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\irregular_h.png">
+      <PackagePath>irregular_h.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\facebook1_h%402x.png">
+      <PackagePath>facebook1_h%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\homeassetstore_h%402x.png">
+      <PackagePath>homeassetstore_h%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\filledcircle_h%402x.png">
+      <PackagePath>filledcircle_h%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\rect_n.png">
+      <PackagePath>rect_n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\size-bar1.png">
+      <PackagePath>size-bar1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\twitter1_h.png">
+      <PackagePath>twitter1_h.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\pent_n.png">
+      <PackagePath>pent_n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\filledtriangle_h.png">
+      <PackagePath>filledtriangle_h.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\homeassetstore_h.png">
+      <PackagePath>homeassetstore_h.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\clear all_n.png">
+      <PackagePath>clear all_n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\irregular_n%402x.png">
+      <PackagePath>irregular_n%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\line_h.png">
+      <PackagePath>line_h.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\shapes_n.png">
+      <PackagePath>shapes_n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\pent_n%402x.png">
+      <PackagePath>pent_n%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\mycomicph.png">
+      <PackagePath>mycomicph.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\email1_n%402x.png">
+      <PackagePath>email1_n%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\filledhex_n%402x.png">
+      <PackagePath>filledhex_n%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\filledhex_h.png">
+      <PackagePath>filledhex_h.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\line_h%402x.png">
+      <PackagePath>line_h%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\pent_h.png">
+      <PackagePath>pent_h.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\template_h.png">
+      <PackagePath>template_h.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\hex_h.png">
+      <PackagePath>hex_h.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\utubemenu_h.png">
+      <PackagePath>utubemenu_h.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\line_n%402x.png">
+      <PackagePath>line_n%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\color-pointer.png">
+      <PackagePath>color-pointer.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\dot.png">
+      <PackagePath>dot.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\landingpage.jpg">
+      <PackagePath>landingpage.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\createmenu_n.png">
+      <PackagePath>createmenu_n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\filledstar_h.png">
+      <PackagePath>filledstar_h.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\email1_h.png">
+      <PackagePath>email1_h.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\mytemplate_h.png">
+      <PackagePath>mytemplate_h.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\print1_h%402x.png">
+      <PackagePath>print1_h%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\clear all_h%402x.png">
+      <PackagePath>clear all_h%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\bar-rollover1.png">
+      <PackagePath>bar-rollover1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\circle_h.png">
+      <PackagePath>circle_h.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\likemenu_n.png">
+      <PackagePath>likemenu_n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\shapes_h%402x.png">
+      <PackagePath>shapes_h%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\filledtriangle_n.png">
+      <PackagePath>filledtriangle_n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\star_h.png">
+      <PackagePath>star_h.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\eraser_n%402x.png">
+      <PackagePath>eraser_n%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\filledrect_h%402x.png">
+      <PackagePath>filledrect_h%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\print1_n%402x.png">
+      <PackagePath>print1_n%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\filledcircle_h.png">
+      <PackagePath>filledcircle_h.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\mycomicarrow%402x.png">
+      <PackagePath>mycomicarrow%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\colors_n%402x.png">
+      <PackagePath>colors_n%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\filledrect_h.png">
+      <PackagePath>filledrect_h.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\crayon_n%402x.png">
+      <PackagePath>crayon_n%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\trans%402x.png">
+      <PackagePath>trans%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\filledhex_n.png">
+      <PackagePath>filledhex_n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\color-pointer%402x.png">
+      <PackagePath>color-pointer%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\aboumenu_h.png">
+      <PackagePath>aboumenu_h.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\eraser_h%402x.png">
+      <PackagePath>eraser_h%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\pent_h%402x.png">
+      <PackagePath>pent_h%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\emptyscreen.png">
+      <PackagePath>emptyscreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\filledstar_n.png">
+      <PackagePath>filledstar_n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\hex_n%402x.png">
+      <PackagePath>hex_n%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\star_n.png">
+      <PackagePath>star_n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\trans.png">
+      <PackagePath>trans.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\mytemplate_n.png">
+      <PackagePath>mytemplate_n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\woodcut.png">
+      <PackagePath>woodcut.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\shapes_n%402x.png">
+      <PackagePath>shapes_n%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\hex_h%402x.png">
+      <PackagePath>hex_h%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\clear all_n%402x.png">
+      <PackagePath>clear all_n%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\crayon_n.png">
+      <PackagePath>crayon_n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\mycomicarrow.png">
+      <PackagePath>mycomicarrow.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\hex_n.png">
+      <PackagePath>hex_n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\homeassetstore_n.png">
+      <PackagePath>homeassetstore_n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\filledstar_h%402x.png">
+      <PackagePath>filledstar_h%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\zoom_n.png">
+      <PackagePath>zoom_n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\filledpent_h.png">
+      <PackagePath>filledpent_h.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\rateus_n.png">
+      <PackagePath>rateus_n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\facebook1_n%402x.png">
+      <PackagePath>facebook1_n%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\ring.png">
+      <PackagePath>ring.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\suggest_email_n.png">
+      <PackagePath>suggest_email_n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\fill_n.png">
+      <PackagePath>fill_n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\twitter1_n%402x.png">
+      <PackagePath>twitter1_n%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\redo_h%402x.png">
+      <PackagePath>redo_h%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\facebook1_n.png">
+      <PackagePath>facebook1_n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\zoom_n%402x.png">
+      <PackagePath>zoom_n%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\email1_h%402x.png">
+      <PackagePath>email1_h%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\aboumenu_n.png">
+      <PackagePath>aboumenu_n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\dot%402x.png">
+      <PackagePath>dot%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\helpmenu_h.png">
+      <PackagePath>helpmenu_h.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\fill_h.png">
+      <PackagePath>fill_h.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\colors_h.png">
+      <PackagePath>colors_h.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\twitter1_n.png">
+      <PackagePath>twitter1_n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\undo_n%402x.png">
+      <PackagePath>undo_n%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\parental_n.png">
+      <PackagePath>parental_n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\filledrect_n%402x.png">
+      <PackagePath>filledrect_n%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\rect_h%402x.png">
+      <PackagePath>rect_h%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\suggest_n.png">
+      <PackagePath>suggest_n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\zoom_h.png">
+      <PackagePath>zoom_h.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\line_n.png">
+      <PackagePath>line_n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\undo_n.png">
+      <PackagePath>undo_n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\parental_h.png">
+      <PackagePath>parental_h.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\filledrect_n.png">
+      <PackagePath>filledrect_n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\filledstar_n%402x.png">
+      <PackagePath>filledstar_n%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\filledcircle_n.png">
+      <PackagePath>filledcircle_n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\15000-coins.png">
+      <PackagePath>15000-coins.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\suggest_facebook_h.png">
+      <PackagePath>suggest_facebook_h.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\utubemenu_n.png">
+      <PackagePath>utubemenu_n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\createmenu_h.png">
+      <PackagePath>createmenu_h.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\colors_h%402x.png">
+      <PackagePath>colors_h%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\likemenu_h.png">
+      <PackagePath>likemenu_h.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\facebook1_h.png">
+      <PackagePath>facebook1_h.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\crayon_h.png">
+      <PackagePath>crayon_h.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\redo_h.png">
+      <PackagePath>redo_h.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\filledhex_h%402x.png">
+      <PackagePath>filledhex_h%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\filledcircle_n%402x.png">
+      <PackagePath>filledcircle_n%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\irregular_h%402x.png">
+      <PackagePath>irregular_h%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\template_n.png">
+      <PackagePath>template_n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\colors_n.png">
+      <PackagePath>colors_n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\undo_h%402x.png">
+      <PackagePath>undo_h%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\print1_h.png">
+      <PackagePath>print1_h.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\bar-rollover1%402x.png">
+      <PackagePath>bar-rollover1%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\eraser_h.png">
+      <PackagePath>eraser_h.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\filledpent_n.png">
+      <PackagePath>filledpent_n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\print1_n.png">
+      <PackagePath>print1_n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\filledpent_n%402x.png">
+      <PackagePath>filledpent_n%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\lastwork_h.png">
+      <PackagePath>lastwork_h.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\twitter1_h%402x.png">
+      <PackagePath>twitter1_h%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\paint_tutorial.png">
+      <PackagePath>paint_tutorial.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\undo_h.png">
+      <PackagePath>undo_h.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\mainmenu\suggest_email_h.png">
+      <PackagePath>suggest_email_h.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\10-%25-black.png">
+      <PackagePath>10-%25-black.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\circle_n.png">
+      <PackagePath>circle_n.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\triangle_h.png">
+      <PackagePath>triangle_h.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\ImageViewSample\Paint\filledpent_h%402x.png">
+      <PackagePath>filledpent_h%402x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\winobjc\09 May\lib\Universal Windows\x86\ApplicationInsights.winmd">
+      <PackagePath>ApplicationInsights.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\winobjc\09 May\lib\Universal Windows\x86\ApplicationInsights.dll">
+      <PackagePath>ApplicationInsights.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\winobjc\09 May\lib\Universal Windows\x86\AppInsights_Win10-UAP.dll">
+      <PackagePath>AppInsights_Win10-UAP.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\winobjc\09 may\lib\universal windows\x86\ASSETSLIBRARY.DLL">
+      <PackagePath>ASSETSLIBRARY.DLL</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\winobjc\09 may\lib\universal windows\x86\AUTOLAYOUT.DLL">
+      <PackagePath>AUTOLAYOUT.DLL</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\winobjc\09 may\lib\universal windows\x86\CAIRO.DLL">
+      <PackagePath>CAIRO.DLL</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\winobjc\09 may\lib\universal windows\x86\COREGRAPHICS.DLL">
+      <PackagePath>COREGRAPHICS.DLL</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\winobjc\09 may\lib\universal windows\x86\CORETEXT.DLL">
+      <PackagePath>CORETEXT.DLL</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\winobjc\09 may\lib\universal windows\x86\debug\LIBDISPATCH.DLL">
+      <PackagePath>LIBDISPATCH.DLL</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\winobjc\09 may\lib\universal windows\x86\debug\LIBOBJC2.DLL">
+      <PackagePath>LIBOBJC2.DLL</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\winobjc\09 may\lib\universal windows\x86\debug\WINOBJCRT.DLL">
+      <PackagePath>WINOBJCRT.DLL</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\winobjc\09 may\lib\universal windows\x86\FOUNDATION.DLL">
+      <PackagePath>FOUNDATION.DLL</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\winobjc\09 may\lib\universal windows\x86\FREETYPE.DLL">
+      <PackagePath>FREETYPE.DLL</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\winobjc\09 may\lib\universal windows\x86\ICUDT.DLL">
+      <PackagePath>ICUDT.DLL</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\winobjc\09 may\lib\universal windows\x86\ICUIN.DLL">
+      <PackagePath>ICUIN.DLL</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\winobjc\09 may\lib\universal windows\x86\ICUUC.DLL">
+      <PackagePath>ICUUC.DLL</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\winobjc\09 may\lib\universal windows\x86\LIBJPEG.DLL">
+      <PackagePath>LIBJPEG.DLL</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\winobjc\09 may\lib\universal windows\x86\LIBPNG.DLL">
+      <PackagePath>LIBPNG.DLL</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\winobjc\09 may\lib\universal windows\x86\LIBXML2.DLL">
+      <PackagePath>LIBXML2.DLL</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\winobjc\09 may\lib\universal windows\x86\LIBZ.DLL">
+      <PackagePath>LIBZ.DLL</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\winobjc\09 may\lib\universal windows\x86\LOGGING.DLL">
+      <PackagePath>LOGGING.DLL</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\winobjc\09 may\lib\universal windows\x86\OBJCUWP.DLL">
+      <PackagePath>OBJCUWP.DLL</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\winobjc\09 may\lib\universal windows\x86\QUARTZCORE.DLL">
+      <PackagePath>QUARTZCORE.DLL</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\winobjc\09 may\lib\universal windows\x86\RTOBJCINTEROP.DLL">
+      <PackagePath>RTOBJCINTEROP.DLL</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\winobjc\09 may\lib\universal windows\x86\STARBOARD.DLL">
+      <PackagePath>STARBOARD.DLL</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\winobjc\09 may\lib\universal windows\x86\STARBOARDXAML.DLL">
+      <PackagePath>STARBOARDXAML.DLL</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\winobjc\09 may\lib\universal windows\x86\UIKIT.DLL">
+      <PackagePath>UIKIT.DLL</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\Sample.vsimporter\Sample-WinStore10\Debug\Info.plist">
+      <PackagePath>Info.plist</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\Sample.vsimporter\Sample-WinStore10\Debug\Base.lproj\LaunchScreen.storyboardc\01J-lp-oVM-view-Ze5-6b-2t3.nib">
+      <PackagePath>Base.lproj\LaunchScreen.storyboardc\01J-lp-oVM-view-Ze5-6b-2t3.nib</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\Sample.vsimporter\Sample-WinStore10\Debug\Base.lproj\LaunchScreen.storyboardc\01J-lp-oVM.nib">
+      <PackagePath>Base.lproj\LaunchScreen.storyboardc\01J-lp-oVM.nib</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\Sample.vsimporter\Sample-WinStore10\Debug\Base.lproj\LaunchScreen.storyboardc\Info.plist">
+      <PackagePath>Base.lproj\LaunchScreen.storyboardc\Info.plist</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\Sample.vsimporter\Sample-WinStore10\Debug\Base.lproj\Main.storyboardc\BYZ-38-t0r-view-8bC-Xf-vdC.nib">
+      <PackagePath>Base.lproj\Main.storyboardc\BYZ-38-t0r-view-8bC-Xf-vdC.nib</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\Sample.vsimporter\Sample-WinStore10\Debug\Base.lproj\Main.storyboardc\BYZ-38-t0r.nib">
+      <PackagePath>Base.lproj\Main.storyboardc\BYZ-38-t0r.nib</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\Sample.vsimporter\Sample-WinStore10\Debug\Base.lproj\Main.storyboardc\Info.plist">
+      <PackagePath>Base.lproj\Main.storyboardc\Info.plist</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\Debug\Sample\Sample.exe">
+      <PackagePath>Sample.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\Debug\Sample\Sample.winmd">
+      <PackagePath>Sample.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\Sample.vsimporter\Sample-WinStore10\default.rd.xml">
+      <PackagePath>default.rd.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\Sample.vsimporter\Sample-WinStore10\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\Sample.vsimporter\Sample-WinStore10\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\Sample.vsimporter\Sample-WinStore10\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\Sample.vsimporter\Sample-WinStore10\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\Sample.vsimporter\Sample-WinStore10\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\Sample.vsimporter\Sample-WinStore10\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\Sample.vsimporter\Sample-WinStore10\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.10586.0\\redist\Debug\x86\ucrtbased.dll">
+      <PackagePath>ucrtbased.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\May\09 May\ImageViewSample\Debug\Sample\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.23918.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.23918.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.23918.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.23918.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.23918.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.23918.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

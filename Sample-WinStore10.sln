@@ -1,0 +1,43 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sample", "Sample", "{793E63C2-40E0-4E24-885A-2A460A453E48}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sample-Headers", "Sample.vsimporter\Sample-Headers-WinStore10\Sample-Headers.vcxitems", "{3A2083F8-8BE6-4752-8401-F172A38169C6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sample", "Sample.vsimporter\Sample-WinStore10\Sample.vcxproj", "{8ABFC0BF-CA30-4243-9F17-625582EC3D81}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Sample.vsimporter\Sample-Headers-WinStore10\Sample-Headers.vcxitems*{3A2083F8-8BE6-4752-8401-F172A38169C6}*SharedItemsImports = 9
+		Sample.vsimporter\Sample-Headers-WinStore10\Sample-Headers.vcxitems*{8ABFC0BF-CA30-4243-9F17-625582EC3D81}*SharedItemsImports = 4
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|Win32 = Debug|Win32
+		Release|ARM = Release|ARM
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ABFC0BF-CA30-4243-9F17-625582EC3D81}.Debug|ARM.ActiveCfg = Debug|ARM
+		{8ABFC0BF-CA30-4243-9F17-625582EC3D81}.Debug|ARM.Build.0 = Debug|ARM
+		{8ABFC0BF-CA30-4243-9F17-625582EC3D81}.Debug|ARM.Deploy.0 = Debug|ARM
+		{8ABFC0BF-CA30-4243-9F17-625582EC3D81}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8ABFC0BF-CA30-4243-9F17-625582EC3D81}.Debug|Win32.Build.0 = Debug|Win32
+		{8ABFC0BF-CA30-4243-9F17-625582EC3D81}.Debug|Win32.Deploy.0 = Debug|Win32
+		{8ABFC0BF-CA30-4243-9F17-625582EC3D81}.Release|ARM.ActiveCfg = Release|ARM
+		{8ABFC0BF-CA30-4243-9F17-625582EC3D81}.Release|ARM.Build.0 = Release|ARM
+		{8ABFC0BF-CA30-4243-9F17-625582EC3D81}.Release|ARM.Deploy.0 = Release|ARM
+		{8ABFC0BF-CA30-4243-9F17-625582EC3D81}.Release|Win32.ActiveCfg = Release|Win32
+		{8ABFC0BF-CA30-4243-9F17-625582EC3D81}.Release|Win32.Build.0 = Release|Win32
+		{8ABFC0BF-CA30-4243-9F17-625582EC3D81}.Release|Win32.Deploy.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3A2083F8-8BE6-4752-8401-F172A38169C6} = {793E63C2-40E0-4E24-885A-2A460A453E48}
+		{8ABFC0BF-CA30-4243-9F17-625582EC3D81} = {793E63C2-40E0-4E24-885A-2A460A453E48}
+	EndGlobalSection
+EndGlobal
