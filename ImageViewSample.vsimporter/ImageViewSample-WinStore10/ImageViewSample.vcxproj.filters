@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Common">
+      <UniqueIdentifier>{fe6e08fb-fadc-43b3-9baf-f44f43539abb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Assets">
+      <UniqueIdentifier>{40c562c7-90ff-432d-b9b0-f42db78a2ce3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ImageViewSample">
+      <UniqueIdentifier>{FD7C52D1-12E7-4110-8E39-DDC9CAA80269}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ImageViewSample\Base">
+      <UniqueIdentifier>{1D2ACEA0-911F-4CCB-9E2B-A9895303C305}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ImageViewSample\Full HD">
+      <UniqueIdentifier>{618211D3-FD58-4689-959F-C2ECD6C9D821}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ImageViewSample\Supporting Files">
+      <UniqueIdentifier>{E8F9E9B0-14F1-4E74-AC77-EF680F53F16C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Xcode Variable Files">
+      <UniqueIdentifier>{D8F4D418-7E88-416D-8F2A-1A19875ED88A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Assets\LockScreenLogo.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\SplashScreen.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Square150x150Logo.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Square44x44Logo.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\StoreLogo.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <Image Include="Assets\Wide310x150Logo.scale-200.png">
+      <Filter>Assets</Filter>
+    </Image>
+    <ClangCompile Include="..\..\ImageViewSample\ViewController.m">
+      <Filter>ImageViewSample</Filter>
+    </ClangCompile>
+    <ClangCompile Include="..\..\ImageViewSample\AppDelegate.m">
+      <Filter>ImageViewSample</Filter>
+    </ClangCompile>
+    <ClangCompile Include="..\..\ImageViewSample\main.m">
+      <Filter>ImageViewSample\Supporting Files</Filter>
+    </ClangCompile>
+    <StoryboardCompile Include="..\..\ImageViewSample\Base.lproj\LaunchScreen.storyboard">
+      <Filter>ImageViewSample\Base</Filter>
+    </StoryboardCompile>
+    <SBResourceCopy Include="..\..\ImageViewSample\Full HD\images_1.jpg">
+      <Filter>ImageViewSample\Full HD</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Full HD\images_6.jpg">
+      <Filter>ImageViewSample\Full HD</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Full HD\images_7.jpg">
+      <Filter>ImageViewSample\Full HD</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Full HD\images_3.jpg">
+      <Filter>ImageViewSample\Full HD</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Full HD\images_2.jpg">
+      <Filter>ImageViewSample\Full HD</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Full HD\images_4.jpg">
+      <Filter>ImageViewSample\Full HD</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Full HD\images_9.jpg">
+      <Filter>ImageViewSample\Full HD</Filter>
+    </SBResourceCopy>
+    <AssetCatalogCompile Include="..\..\ImageViewSample\Assets.xcassets">
+      <Filter>ImageViewSample</Filter>
+    </AssetCatalogCompile>
+    <SBResourceCopy Include="..\..\ImageViewSample\Full HD\images_8.jpg">
+      <Filter>ImageViewSample\Full HD</Filter>
+    </SBResourceCopy>
+    <StoryboardCompile Include="..\..\ImageViewSample\Base.lproj\Main.storyboard">
+      <Filter>ImageViewSample\Base</Filter>
+    </StoryboardCompile>
+    <SBResourceCopy Include="..\..\ImageViewSample\Full HD\images_10.jpg">
+      <Filter>ImageViewSample\Full HD</Filter>
+    </SBResourceCopy>
+    <SBResourceCopy Include="..\..\ImageViewSample\Full HD\images_5.jpg">
+      <Filter>ImageViewSample\Full HD</Filter>
+    </SBResourceCopy>
+    <SBInfoPlistCopy Include="..\..\ImageViewSample\Info.plist" />
+    <Text Include="ImageViewSample-Debug-xcvars.txt">
+      <Filter>Xcode Variable Files</Filter>
+    </Text>
+    <Text Include="ImageViewSample-Release-xcvars.txt">
+      <Filter>Xcode Variable Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,69 @@
+Status,Module,File Time Stamp,Link Time Stamp,File Size,Attr.,Link Checksum,Real Checksum,CPU,Subsystem,Symbols,Preferred Base,Actual Base,Virtual Size,Load Order,File Ver,Product Ver,Image Ver,Linker Ver,OS Ver,Subsystem Ver
+?,"API-MS-WIN-CORE-COM-L1-1-1.DLL","Error opening file. The system cannot find the file specified (2).",,,,,,,,,,,,,,,,,,
+?,"API-MS-WIN-CORE-DEBUG-L1-1-1.DLL","Error opening file. The system cannot find the file specified (2).",,,,,,,,,,,,,,,,,,
+?,"API-MS-WIN-CORE-ERRORHANDLING-L1-1-1.DLL","Error opening file. The system cannot find the file specified (2).",,,,,,,,,,,,,,,,,,
+?,"API-MS-WIN-CORE-ERRORHANDLING-L1-1-3.DLL","Error opening file. The system cannot find the file specified (2).",,,,,,,,,,,,,,,,,,
+?,"API-MS-WIN-CORE-FIBERS-L1-1-1.DLL","Error opening file. The system cannot find the file specified (2).",,,,,,,,,,,,,,,,,,
+?,"API-MS-WIN-CORE-FIBERS-L2-1-1.DLL","Error opening file. The system cannot find the file specified (2).",,,,,,,,,,,,,,,,,,
+?,"API-MS-WIN-CORE-FILE-L1-2-1.DLL","Error opening file. The system cannot find the file specified (2).",,,,,,,,,,,,,,,,,,
+?,"API-MS-WIN-CORE-HANDLE-L1-1-0.DLL","Error opening file. The system cannot find the file specified (2).",,,,,,,,,,,,,,,,,,
+?,"API-MS-WIN-CORE-HEAP-L1-2-0.DLL","Error opening file. The system cannot find the file specified (2).",,,,,,,,,,,,,,,,,,
+?,"API-MS-WIN-CORE-INTERLOCKED-L1-2-0.DLL","Error opening file. The system cannot find the file specified (2).",,,,,,,,,,,,,,,,,,
+?,"API-MS-WIN-CORE-LIBRARYLOADER-L1-2-0.DLL","Error opening file. The system cannot find the file specified (2).",,,,,,,,,,,,,,,,,,
+?,"API-MS-WIN-CORE-LOCALIZATION-L1-2-1.DLL","Error opening file. The system cannot find the file specified (2).",,,,,,,,,,,,,,,,,,
+?,"API-MS-WIN-CORE-MEMORY-L1-1-2.DLL","Error opening file. The system cannot find the file specified (2).",,,,,,,,,,,,,,,,,,
+?,"API-MS-WIN-CORE-PROCESSTHREADS-L1-1-2.DLL","Error opening file. The system cannot find the file specified (2).",,,,,,,,,,,,,,,,,,
+?,"API-MS-WIN-CORE-PROFILE-L1-1-0.DLL","Error opening file. The system cannot find the file specified (2).",,,,,,,,,,,,,,,,,,
+?,"API-MS-WIN-CORE-REALTIME-L1-1-0.DLL","Error opening file. The system cannot find the file specified (2).",,,,,,,,,,,,,,,,,,
+?,"API-MS-WIN-CORE-STRING-L1-1-0.DLL","Error opening file. The system cannot find the file specified (2).",,,,,,,,,,,,,,,,,,
+?,"API-MS-WIN-CORE-SYNCH-L1-2-0.DLL","Error opening file. The system cannot find the file specified (2).",,,,,,,,,,,,,,,,,,
+?,"API-MS-WIN-CORE-SYNCH-L1-2-1.DLL","Error opening file. The system cannot find the file specified (2).",,,,,,,,,,,,,,,,,,
+?,"API-MS-WIN-CORE-SYSINFO-L1-2-1.DLL","Error opening file. The system cannot find the file specified (2).",,,,,,,,,,,,,,,,,,
+?,"API-MS-WIN-CORE-TIMEZONE-L1-1-0.DLL","Error opening file. The system cannot find the file specified (2).",,,,,,,,,,,,,,,,,,
+?,"API-MS-WIN-CORE-UTIL-L1-1-0.DLL","Error opening file. The system cannot find the file specified (2).",,,,,,,,,,,,,,,,,,
+?,"API-MS-WIN-CORE-WINRT-ERROR-L1-1-1.DLL","Error opening file. The system cannot find the file specified (2).",,,,,,,,,,,,,,,,,,
+?,"API-MS-WIN-CORE-WINRT-L1-1-0.DLL","Error opening file. The system cannot find the file specified (2).",,,,,,,,,,,,,,,,,,
+?,"API-MS-WIN-CORE-WINRT-STRING-L1-1-0.DLL","Error opening file. The system cannot find the file specified (2).",,,,,,,,,,,,,,,,,,
+?,"API-MS-WIN-CRT-CONVERT-L1-1-0.DLL","Error opening file. The system cannot find the file specified (2).",,,,,,,,,,,,,,,,,,
+?,"API-MS-WIN-CRT-FILESYSTEM-L1-1-0.DLL","Error opening file. The system cannot find the file specified (2).",,,,,,,,,,,,,,,,,,
+?,"API-MS-WIN-CRT-HEAP-L1-1-0.DLL","Error opening file. The system cannot find the file specified (2).",,,,,,,,,,,,,,,,,,
+?,"API-MS-WIN-CRT-LOCALE-L1-1-0.DLL","Error opening file. The system cannot find the file specified (2).",,,,,,,,,,,,,,,,,,
+?,"API-MS-WIN-CRT-MATH-L1-1-0.DLL","Error opening file. The system cannot find the file specified (2).",,,,,,,,,,,,,,,,,,
+?,"API-MS-WIN-CRT-RUNTIME-L1-1-0.DLL","Error opening file. The system cannot find the file specified (2).",,,,,,,,,,,,,,,,,,
+?,"API-MS-WIN-CRT-STDIO-L1-1-0.DLL","Error opening file. The system cannot find the file specified (2).",,,,,,,,,,,,,,,,,,
+?,"API-MS-WIN-CRT-STRING-L1-1-0.DLL","Error opening file. The system cannot find the file specified (2).",,,,,,,,,,,,,,,,,,
+?,"API-MS-WIN-CRT-TIME-L1-1-0.DLL","Error opening file. The system cannot find the file specified (2).",,,,,,,,,,,,,,,,,,
+?,"API-MS-WIN-CRT-UTILITY-L1-1-0.DLL","Error opening file. The system cannot find the file specified (2).",,,,,,,,,,,,,,,,,,
+?,"API-MS-WIN-EVENTING-PROVIDER-L1-1-0.DLL","Error opening file. The system cannot find the file specified (2).",,,,,,,,,,,,,,,,,,
+?,"BCRYPT.DLL","Error opening file. The system cannot find the file specified (2).",,,,,,,,,,,,,,,,,,
+?,"MSVCP140_APP.DLL","Error opening file. The system cannot find the file specified (2).",,,,,,,,,,,,,,,,,,
+?,"MSVCP140D_APP.DLL","Error opening file. The system cannot find the file specified (2).",,,,,,,,,,,,,,,,,,
+?,"UCRTBASED.DLL","Error opening file. The system cannot find the file specified (2).",,,,,,,,,,,,,,,,,,
+?,"VCCORLIB140_APP.DLL","Error opening file. The system cannot find the file specified (2).",,,,,,,,,,,,,,,,,,
+?,"VCCORLIB140D_APP.DLL","Error opening file. The system cannot find the file specified (2).",,,,,,,,,,,,,,,,,,
+?,"VCRUNTIME140_APP.DLL","Error opening file. The system cannot find the file specified (2).",,,,,,,,,,,,,,,,,,
+?,"VCRUNTIME140D_APP.DLL","Error opening file. The system cannot find the file specified (2).",,,,,,,,,,,,,,,,,,
+?,"WS2_32.DLL","Error opening file. The system cannot find the file specified (2).",,,,,,,,,,,,,,,,,,
+,"e:\sivaguru\projects\apr\28 apr\imageviewsample\debug\imageviewsample\IMAGEVIEWSAMPLE.EXE",2016-04-28 18:27:28,2016-04-28 18:27:28,101888,A,0x00000000,0x00027501,x86,GUI,"CV,Unknown",0x00400000,Unknown,0x0001E000,Not Loaded,N/A,N/A,0.0,14.0,6.2,6.2
+,"e:\sivaguru\windows porting\msvc\..\lib\universal windows\x86\AUTOLAYOUT.DLL",2016-04-22 16:09:23,2016-04-20 18:22:11,178688,A,0x00000000,0x0003210E,x86,Console,"CV,Unknown",0x10000000,Unknown,0x00032000,Not Loaded,N/A,N/A,0.0,14.0,6.2,6.2
+,"e:\sivaguru\windows porting\msvc\..\lib\universal windows\x86\CAIRO.DLL",2016-04-22 16:09:24,2015-07-22 23:26:08,1280000,A,0x00000000,0x0013B5D3,x86,GUI,"CV,Unknown",0x10000000,Unknown,0x0013F000,Not Loaded,N/A,N/A,0.0,14.0,6.2,6.2
+,"e:\sivaguru\windows porting\msvc\..\lib\universal windows\x86\COREGRAPHICS.DLL",2016-04-22 16:09:25,2016-04-20 18:21:53,1454080,A,0x00000000,0x0016A07A,x86,Console,"CV,Unknown",0x10000000,Unknown,0x0017B000,Not Loaded,N/A,N/A,0.0,14.0,6.2,6.2
+,"e:\sivaguru\windows porting\msvc\..\lib\universal windows\x86\CORETEXT.DLL",2016-04-22 16:09:26,2016-04-20 18:22:02,573440,A,0x00000000,0x0009491C,x86,Console,"CV,Unknown",0x10000000,Unknown,0x00098000,Not Loaded,N/A,N/A,0.0,14.0,6.2,6.2
+,"e:\sivaguru\windows porting\msvc\..\lib\universal windows\x86\debug\LIBDISPATCH.DLL",2016-04-22 16:09:35,2016-04-04 08:02:44,220160,A,0x00000000,0x000450BC,x86,GUI,"CV,Unknown",0x10000000,Unknown,0x0003F000,Not Loaded,N/A,N/A,0.0,14.0,6.2,6.2
+,"e:\sivaguru\windows porting\msvc\..\lib\universal windows\x86\debug\LIBOBJC2.DLL",2016-04-22 16:09:35,2016-04-07 05:17:22,185344,A,0x00000000,0x000312BA,x86,Console,"CV,Unknown",0x10000000,Unknown,0x00044000,Not Loaded,N/A,N/A,0.0,14.0,6.2,6.2
+,"e:\sivaguru\windows porting\msvc\..\lib\universal windows\x86\debug\WINOBJCRT.DLL",2016-04-22 16:09:35,2016-04-20 18:15:48,119296,A,0x00000000,0x0002CAD3,x86,Console,"CV,Unknown",0x10000000,Unknown,0x00031000,Not Loaded,N/A,N/A,0.0,14.0,6.2,6.2
+,"e:\sivaguru\windows porting\msvc\..\lib\universal windows\x86\FOUNDATION.DLL",2016-04-22 16:09:27,2016-04-20 18:20:31,28252160,A,0x00000000,0x01AFA266,x86,Console,"CV,Unknown",0x10000000,Unknown,0x01B70000,Not Loaded,N/A,N/A,0.0,14.0,6.2,6.2
+,"e:\sivaguru\windows porting\msvc\..\lib\universal windows\x86\FREETYPE.DLL",2016-04-22 16:09:28,2015-07-10 02:52:12,451584,A,0x00000000,0x000708B7,x86,Console,"CV,Unknown",0x10000000,Unknown,0x00071000,Not Loaded,N/A,N/A,0.0,14.0,6.2,6.2
+,"e:\sivaguru\windows porting\msvc\..\lib\universal windows\x86\ICUDT.DLL",2016-04-22 16:09:29,2015-07-08 00:13:09,7168,A,0x00000000,0x0000F1D9,x86,Console,"CV,Unknown",0x10000000,Unknown,0x00006000,Not Loaded,N/A,N/A,0.0,14.0,6.2,6.2
+,"e:\sivaguru\windows porting\msvc\..\lib\universal windows\x86\ICUIN.DLL",2016-04-22 16:09:29,2015-07-08 00:14:06,1374208,A,0x00000000,0x00151E37,x86,Console,"CV,Unknown",0x10000000,Unknown,0x00154000,Not Loaded,N/A,N/A,0.0,14.0,6.2,6.2
+,"e:\sivaguru\windows porting\msvc\..\lib\universal windows\x86\ICUUC.DLL",2016-04-22 16:09:30,2015-07-08 00:13:30,1060352,A,0x00000000,0x0010CE66,x86,Console,"CV,Unknown",0x10000000,Unknown,0x00108000,Not Loaded,N/A,N/A,0.0,14.0,6.2,6.2
+,"e:\sivaguru\windows porting\msvc\..\lib\universal windows\x86\LIBJPEG.DLL",2016-04-22 16:09:30,2015-07-09 03:13:28,238592,A,0x00000000,0x000468AB,x86,Console,"CV,Unknown",0x10000000,Unknown,0x0003E000,Not Loaded,N/A,N/A,0.0,14.0,6.2,6.2
+,"e:\sivaguru\windows porting\msvc\..\lib\universal windows\x86\LIBPNG.DLL",2016-04-22 16:09:30,2015-07-23 04:21:23,151040,A,0x00000000,0x000265BF,x86,Console,"CV,Unknown",0x10000000,Unknown,0x00028000,Not Loaded,N/A,N/A,0.0,14.0,6.2,6.2
+,"e:\sivaguru\windows porting\msvc\..\lib\universal windows\x86\LIBXML2.DLL",2016-04-22 16:09:30,2015-11-06 07:45:32,487424,A,0x00000000,0x0007FCA6,x86,Console,"CV,Unknown",0x10000000,Unknown,0x0007A000,Not Loaded,N/A,N/A,0.0,14.0,6.2,6.2
+,"e:\sivaguru\windows porting\msvc\..\lib\universal windows\x86\LIBZ.DLL",2016-04-22 16:09:30,2015-07-22 05:40:30,67072,A,0x00000000,0x0001A068,x86,Console,"CV,Unknown",0x10000000,Unknown,0x00014000,Not Loaded,1.2.8.0,1.2.8.0,0.0,14.0,6.2,6.2
+,"e:\sivaguru\windows porting\msvc\..\lib\universal windows\x86\LOGGING.DLL",2016-04-22 16:09:30,2016-04-20 18:19:14,31744,A,0x00000000,0x0000D413,x86,Console,"CV,Unknown",0x10000000,Unknown,0x0000E000,Not Loaded,N/A,N/A,0.0,14.0,6.2,6.2
+,"e:\sivaguru\windows porting\msvc\..\lib\universal windows\x86\OBJCUWP.DLL",2016-04-22 16:09:32,2016-03-15 01:12:29,32504320,A,0x00000000,0x01F06215,x86,Console,"CV,Unknown",0x10000000,Unknown,0x0203D000,Not Loaded,N/A,N/A,0.0,14.0,6.2,6.2
+,"e:\sivaguru\windows porting\msvc\..\lib\universal windows\x86\QUARTZCORE.DLL",2016-04-22 16:09:32,2016-04-20 18:22:02,1298944,A,0x00000000,0x0013E620,x86,Console,"CV,Unknown",0x10000000,Unknown,0x00153000,Not Loaded,N/A,N/A,0.0,14.0,6.2,6.2
+,"e:\sivaguru\windows porting\msvc\..\lib\universal windows\x86\STARBOARD.DLL",2016-04-22 16:09:33,2016-04-20 18:20:09,158208,A,0x00000000,0x00034EF5,x86,Console,"CV,Unknown",0x10000000,Unknown,0x0002F000,Not Loaded,N/A,N/A,0.0,14.0,6.2,6.2
+,"e:\sivaguru\windows porting\msvc\..\lib\universal windows\x86\STARBOARDXAML.DLL",2016-04-22 16:09:33,2016-04-20 18:22:51,933376,A,0x00000000,0x000E91E5,x86,Console,"CV,Unknown",0x10000000,Unknown,0x000F0000,Not Loaded,N/A,N/A,0.0,14.0,6.2,6.2
+,"e:\sivaguru\windows porting\msvc\..\lib\universal windows\x86\UIKIT.DLL",2016-04-22 16:09:34,2016-04-20 18:22:20,11667456,A,0x00000000,0x00B2FFB8,x86,Console,"CV,Unknown",0x10000000,Unknown,0x00BBF000,Not Loaded,N/A,N/A,0.0,14.0,6.2,6.2

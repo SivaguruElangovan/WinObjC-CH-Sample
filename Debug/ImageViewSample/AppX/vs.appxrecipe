@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>XNA5</Machine>
+    <WindowsUser>Nextwave XNA5</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|Win32</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>3f5af562-73f9-48c6-8ad1-514b9041035b</PackageIdentityName>
+    <IntermediateOutputPath>E:\Sivaguru\Projects\Apr\28 Apr\ImageViewSample\ImageViewSample.vsimporter\ImageViewSample-WinStore10\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>B51D16AEB68BB00C739917B34CBAF73B1FAA608C5CF8191E0B6034881B830813</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>3f5af562-73f9-48c6-8ad1-514b9041035b_1.0.0.0_x86__25df6mrb6rnve</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>3f5af562-73f9-48c6-8ad1-514b9041035b_25df6mrb6rnve!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>3f5af562-73f9-48c6-8ad1-514b9041035b</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Nextwave XNA5</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Sivaguru\Projects\Apr\28 Apr\ImageViewSample\Debug\ImageViewSample\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-28T12:57:29.311</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\Apr\28 Apr\ImageViewSample\ImageViewSample\Full HD\images_1.jpg">
+      <PackagePath>images_1.jpg</PackagePath>
+      <Modified>2016-01-23T06:44:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\Apr\28 Apr\ImageViewSample\ImageViewSample\Full HD\images_6.jpg">
+      <PackagePath>images_6.jpg</PackagePath>
+      <Modified>2016-01-23T06:48:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\Apr\28 Apr\ImageViewSample\ImageViewSample\Full HD\images_7.jpg">
+      <PackagePath>images_7.jpg</PackagePath>
+      <Modified>2016-01-23T06:47:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\Apr\28 Apr\ImageViewSample\ImageViewSample\Full HD\images_3.jpg">
+      <PackagePath>images_3.jpg</PackagePath>
+      <Modified>2016-01-23T06:42:59.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\Apr\28 Apr\ImageViewSample\ImageViewSample\Full HD\images_2.jpg">
+      <PackagePath>images_2.jpg</PackagePath>
+      <Modified>2016-01-23T06:45:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\Apr\28 Apr\ImageViewSample\ImageViewSample\Full HD\images_4.jpg">
+      <PackagePath>images_4.jpg</PackagePath>
+      <Modified>2016-01-23T06:48:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\Apr\28 Apr\ImageViewSample\ImageViewSample\Full HD\images_9.jpg">
+      <PackagePath>images_9.jpg</PackagePath>
+      <Modified>2016-01-23T06:44:03.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\Apr\28 Apr\ImageViewSample\ImageViewSample\Full HD\images_8.jpg">
+      <PackagePath>images_8.jpg</PackagePath>
+      <Modified>2016-01-23T06:45:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\Apr\28 Apr\ImageViewSample\ImageViewSample\Full HD\images_10.jpg">
+      <PackagePath>images_10.jpg</PackagePath>
+      <Modified>2016-01-23T06:46:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\Apr\28 Apr\ImageViewSample\ImageViewSample\Full HD\images_5.jpg">
+      <PackagePath>images_5.jpg</PackagePath>
+      <Modified>2016-01-23T06:50:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Windows Porting\lib\Universal Windows\x86\ApplicationInsights.winmd">
+      <PackagePath>ApplicationInsights.winmd</PackagePath>
+      <Modified>2016-04-22T10:39:23.525</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Windows Porting\lib\Universal Windows\x86\ApplicationInsights.dll">
+      <PackagePath>ApplicationInsights.dll</PackagePath>
+      <Modified>2016-04-22T10:39:23.510</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Windows Porting\lib\Universal Windows\x86\AppInsights_Win10-UAP.dll">
+      <PackagePath>AppInsights_Win10-UAP.dll</PackagePath>
+      <Modified>2016-04-22T10:39:23.510</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\windows porting\lib\universal windows\x86\AUTOLAYOUT.DLL">
+      <PackagePath>AUTOLAYOUT.DLL</PackagePath>
+      <Modified>2016-04-22T10:39:23.697</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\windows porting\lib\universal windows\x86\CAIRO.DLL">
+      <PackagePath>CAIRO.DLL</PackagePath>
+      <Modified>2016-04-22T10:39:24.275</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\windows porting\lib\universal windows\x86\COREGRAPHICS.DLL">
+      <PackagePath>COREGRAPHICS.DLL</PackagePath>
+      <Modified>2016-04-22T10:39:25.150</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\windows porting\lib\universal windows\x86\CORETEXT.DLL">
+      <PackagePath>CORETEXT.DLL</PackagePath>
+      <Modified>2016-04-22T10:39:26.494</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\windows porting\lib\universal windows\x86\debug\LIBDISPATCH.DLL">
+      <PackagePath>LIBDISPATCH.DLL</PackagePath>
+      <Modified>2016-04-22T10:39:35.308</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\windows porting\lib\universal windows\x86\debug\LIBOBJC2.DLL">
+      <PackagePath>LIBOBJC2.DLL</PackagePath>
+      <Modified>2016-04-22T10:39:35.339</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\windows porting\lib\universal windows\x86\debug\WINOBJCRT.DLL">
+      <PackagePath>WINOBJCRT.DLL</PackagePath>
+      <Modified>2016-04-22T10:39:35.355</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\windows porting\lib\universal windows\x86\FOUNDATION.DLL">
+      <PackagePath>FOUNDATION.DLL</PackagePath>
+      <Modified>2016-04-22T10:39:27.369</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\windows porting\lib\universal windows\x86\FREETYPE.DLL">
+      <PackagePath>FREETYPE.DLL</PackagePath>
+      <Modified>2016-04-22T10:39:28.229</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\windows porting\lib\universal windows\x86\ICUDT.DLL">
+      <PackagePath>ICUDT.DLL</PackagePath>
+      <Modified>2016-04-22T10:39:29.932</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\windows porting\lib\universal windows\x86\ICUIN.DLL">
+      <PackagePath>ICUIN.DLL</PackagePath>
+      <Modified>2016-04-22T10:39:29.979</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\windows porting\lib\universal windows\x86\ICUUC.DLL">
+      <PackagePath>ICUUC.DLL</PackagePath>
+      <Modified>2016-04-22T10:39:30.057</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\windows porting\lib\universal windows\x86\LIBJPEG.DLL">
+      <PackagePath>LIBJPEG.DLL</PackagePath>
+      <Modified>2016-04-22T10:39:30.463</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\windows porting\lib\universal windows\x86\LIBPNG.DLL">
+      <PackagePath>LIBPNG.DLL</PackagePath>
+      <Modified>2016-04-22T10:39:30.557</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\windows porting\lib\universal windows\x86\LIBXML2.DLL">
+      <PackagePath>LIBXML2.DLL</PackagePath>
+      <Modified>2016-04-22T10:39:30.635</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\windows porting\lib\universal windows\x86\LIBZ.DLL">
+      <PackagePath>LIBZ.DLL</PackagePath>
+      <Modified>2016-04-22T10:39:30.792</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\windows porting\lib\universal windows\x86\LOGGING.DLL">
+      <PackagePath>LOGGING.DLL</PackagePath>
+      <Modified>2016-04-22T10:39:30.948</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\windows porting\lib\universal windows\x86\OBJCUWP.DLL">
+      <PackagePath>OBJCUWP.DLL</PackagePath>
+      <Modified>2016-04-22T10:39:32.354</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\windows porting\lib\universal windows\x86\QUARTZCORE.DLL">
+      <PackagePath>QUARTZCORE.DLL</PackagePath>
+      <Modified>2016-04-22T10:39:32.870</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\windows porting\lib\universal windows\x86\STARBOARD.DLL">
+      <PackagePath>STARBOARD.DLL</PackagePath>
+      <Modified>2016-04-22T10:39:33.214</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\windows porting\lib\universal windows\x86\STARBOARDXAML.DLL">
+      <PackagePath>STARBOARDXAML.DLL</PackagePath>
+      <Modified>2016-04-22T10:39:33.370</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="e:\sivaguru\windows porting\lib\universal windows\x86\UIKIT.DLL">
+      <PackagePath>UIKIT.DLL</PackagePath>
+      <Modified>2016-04-22T10:39:34.355</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\Apr\28 Apr\ImageViewSample\ImageViewSample.vsimporter\ImageViewSample-WinStore10\Debug\Info.plist">
+      <PackagePath>Info.plist</PackagePath>
+      <Modified>2016-04-28T12:56:40.545</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\Apr\28 Apr\ImageViewSample\ImageViewSample.vsimporter\ImageViewSample-WinStore10\Debug\Base.lproj\LaunchScreen.storyboardc\01J-lp-oVM-view-Ze5-6b-2t3.nib">
+      <PackagePath>Base.lproj\LaunchScreen.storyboardc\01J-lp-oVM-view-Ze5-6b-2t3.nib</PackagePath>
+      <Modified>2016-04-28T12:56:36.057</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\Apr\28 Apr\ImageViewSample\ImageViewSample.vsimporter\ImageViewSample-WinStore10\Debug\Base.lproj\LaunchScreen.storyboardc\Info.plist">
+      <PackagePath>Base.lproj\LaunchScreen.storyboardc\Info.plist</PackagePath>
+      <Modified>2016-04-28T12:56:36.059</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\Apr\28 Apr\ImageViewSample\ImageViewSample.vsimporter\ImageViewSample-WinStore10\Debug\Base.lproj\LaunchScreen.storyboardc\UIViewController-01J-lp-oVM.nib">
+      <PackagePath>Base.lproj\LaunchScreen.storyboardc\UIViewController-01J-lp-oVM.nib</PackagePath>
+      <Modified>2016-04-28T12:56:36.058</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\Apr\28 Apr\ImageViewSample\ImageViewSample.vsimporter\ImageViewSample-WinStore10\Debug\Base.lproj\Main.storyboardc\BYZ-38-t0r-view-8bC-Xf-vdC.nib">
+      <PackagePath>Base.lproj\Main.storyboardc\BYZ-38-t0r-view-8bC-Xf-vdC.nib</PackagePath>
+      <Modified>2016-04-28T12:56:38.197</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\Apr\28 Apr\ImageViewSample\ImageViewSample.vsimporter\ImageViewSample-WinStore10\Debug\Base.lproj\Main.storyboardc\Info.plist">
+      <PackagePath>Base.lproj\Main.storyboardc\Info.plist</PackagePath>
+      <Modified>2016-04-28T12:56:38.200</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\Apr\28 Apr\ImageViewSample\ImageViewSample.vsimporter\ImageViewSample-WinStore10\Debug\Base.lproj\Main.storyboardc\UIViewController-BYZ-38-t0r.nib">
+      <PackagePath>Base.lproj\Main.storyboardc\UIViewController-BYZ-38-t0r.nib</PackagePath>
+      <Modified>2016-04-28T12:56:38.198</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\Apr\28 Apr\ImageViewSample\Debug\ImageViewSample\ImageViewSample.exe">
+      <PackagePath>ImageViewSample.exe</PackagePath>
+      <Modified>2016-04-28T12:57:28.390</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\Apr\28 Apr\ImageViewSample\Debug\ImageViewSample\ImageViewSample.winmd">
+      <PackagePath>ImageViewSample.winmd</PackagePath>
+      <Modified>2016-04-13T11:30:44.182</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\Apr\28 Apr\ImageViewSample\ImageViewSample.vsimporter\ImageViewSample-WinStore10\default.rd.xml">
+      <PackagePath>default.rd.xml</PackagePath>
+      <Modified>2016-04-28T12:50:39.182</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\Apr\28 Apr\ImageViewSample\ImageViewSample.vsimporter\ImageViewSample-WinStore10\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2016-04-28T12:50:39.185</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\Apr\28 Apr\ImageViewSample\ImageViewSample.vsimporter\ImageViewSample-WinStore10\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-28T12:50:39.199</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\Apr\28 Apr\ImageViewSample\ImageViewSample.vsimporter\ImageViewSample-WinStore10\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-28T12:50:39.218</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\Apr\28 Apr\ImageViewSample\ImageViewSample.vsimporter\ImageViewSample-WinStore10\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-28T12:50:39.207</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\Apr\28 Apr\ImageViewSample\ImageViewSample.vsimporter\ImageViewSample-WinStore10\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-28T12:50:39.213</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\Apr\28 Apr\ImageViewSample\ImageViewSample.vsimporter\ImageViewSample-WinStore10\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-28T12:50:39.220</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\Apr\28 Apr\ImageViewSample\ImageViewSample.vsimporter\ImageViewSample-WinStore10\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-28T12:50:39.223</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.10586.0\\redist\Debug\x86\ucrtbased.dll">
+      <PackagePath>ucrtbased.dll</PackagePath>
+      <Modified>2016-03-29T03:41:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Sivaguru\Projects\Apr\28 Apr\ImageViewSample\Debug\ImageViewSample\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-04-28T12:56:41.154</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.23918.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.23918.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.23918.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.23918.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.23918.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.23918.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

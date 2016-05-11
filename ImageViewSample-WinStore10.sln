@@ -1,0 +1,43 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ImageViewSample", "ImageViewSample", "{E20B10D4-38FB-4950-8465-A280A601644A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ImageViewSample-Headers", "ImageViewSample.vsimporter\ImageViewSample-Headers-WinStore10\ImageViewSample-Headers.vcxitems", "{9DEE394C-DBD6-4E39-AB4A-0E797BE23E39}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ImageViewSample", "ImageViewSample.vsimporter\ImageViewSample-WinStore10\ImageViewSample.vcxproj", "{DF402A96-97CC-454A-980C-B6F2D5F8CAF0}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		ImageViewSample.vsimporter\ImageViewSample-Headers-WinStore10\ImageViewSample-Headers.vcxitems*{9DEE394C-DBD6-4E39-AB4A-0E797BE23E39}*SharedItemsImports = 9
+		ImageViewSample.vsimporter\ImageViewSample-Headers-WinStore10\ImageViewSample-Headers.vcxitems*{DF402A96-97CC-454A-980C-B6F2D5F8CAF0}*SharedItemsImports = 4
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|Win32 = Debug|Win32
+		Release|ARM = Release|ARM
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF402A96-97CC-454A-980C-B6F2D5F8CAF0}.Debug|ARM.ActiveCfg = Debug|ARM
+		{DF402A96-97CC-454A-980C-B6F2D5F8CAF0}.Debug|ARM.Build.0 = Debug|ARM
+		{DF402A96-97CC-454A-980C-B6F2D5F8CAF0}.Debug|ARM.Deploy.0 = Debug|ARM
+		{DF402A96-97CC-454A-980C-B6F2D5F8CAF0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DF402A96-97CC-454A-980C-B6F2D5F8CAF0}.Debug|Win32.Build.0 = Debug|Win32
+		{DF402A96-97CC-454A-980C-B6F2D5F8CAF0}.Debug|Win32.Deploy.0 = Debug|Win32
+		{DF402A96-97CC-454A-980C-B6F2D5F8CAF0}.Release|ARM.ActiveCfg = Release|ARM
+		{DF402A96-97CC-454A-980C-B6F2D5F8CAF0}.Release|ARM.Build.0 = Release|ARM
+		{DF402A96-97CC-454A-980C-B6F2D5F8CAF0}.Release|ARM.Deploy.0 = Release|ARM
+		{DF402A96-97CC-454A-980C-B6F2D5F8CAF0}.Release|Win32.ActiveCfg = Release|Win32
+		{DF402A96-97CC-454A-980C-B6F2D5F8CAF0}.Release|Win32.Build.0 = Release|Win32
+		{DF402A96-97CC-454A-980C-B6F2D5F8CAF0}.Release|Win32.Deploy.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9DEE394C-DBD6-4E39-AB4A-0E797BE23E39} = {E20B10D4-38FB-4950-8465-A280A601644A}
+		{DF402A96-97CC-454A-980C-B6F2D5F8CAF0} = {E20B10D4-38FB-4950-8465-A280A601644A}
+	EndGlobalSection
+EndGlobal

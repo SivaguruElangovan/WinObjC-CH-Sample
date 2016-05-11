@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Label="Globals">
+    <HasSharedItems>true</HasSharedItems>
+    <ItemsRootNamespace>ImageViewSample_Headers</ItemsRootNamespace>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <Keyword>IslandwoodProj</Keyword>
+    <ItemsProjectGuid>{9DEE394C-DBD6-4E39-AB4A-0E797BE23E39}</ItemsProjectGuid>
+    <SharedGUID>{06C11A43-38B6-4E08-8737-E4DEF469F8F6}</SharedGUID>
+  </PropertyGroup>
+  <ItemGroup>
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\..\ImageViewSample\AppDelegate.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)..\..\ImageViewSample\ViewController.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectCapability Include="SourceItemsFromImports" />
+  </ItemGroup>
+</Project>

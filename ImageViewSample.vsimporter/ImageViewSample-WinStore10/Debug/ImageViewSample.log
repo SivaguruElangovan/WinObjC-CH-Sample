@@ -1,0 +1,5 @@
+﻿  Note: Setting MaxClangProcesses to 1 because Modules are enabled.
+  ..\..\ImageViewSample\AppDelegate.m
+  ImageViewSample.vcxproj -> E:\Sivaguru\Projects\Apr\28 Apr\ImageViewSample\Debug\ImageViewSample\ImageViewSample.exe
+C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v14.0\AppxPackage\Microsoft.AppXPackage.Targets(1908,5): warning APPX0104: Certificate file 'ImageViewSample_TemporaryKey.pfx' not found.
+C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v14.0\AppxPackage\Microsoft.AppXPackage.Targets(1908,5): warning APPX0107: The certificate specified is not valid for signing. For more information about valid certificates, see http://go.microsoft.com/fwlink/?LinkID=241478.
